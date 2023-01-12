@@ -39,10 +39,10 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/DJake-P/Ender3Firmware"><strong>Explore the docs »</strong></a>
+    <!--<a href="https://github.com/DJake-P/Ender3Firmware/issues"><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
-    <a href="https://github.com/DJake-P/Ender3Firmware">View Demo</a>
+    <!--<a href="https://github.com/DJake-P/Ender3Firmware">View Demo</a>-->
     ·
     <a href="https://github.com/DJake-P/Ender3Firmware/issues">Report Bug</a>
     ·
