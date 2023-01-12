@@ -85,13 +85,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+After looking for Firmware for the Ender 3 and Ender 3 Pro that was stable and incorporated the BLTouch and Filament Sensor, I decided to create my own. I have included all the files I used to create two firmwares one for each printer. The details are listed below. If there are any issues, let me know.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+<!--### Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -102,7 +102,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
