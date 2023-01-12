@@ -156,7 +156,7 @@ Using precompiled firmware:
 
 If you would like to compile your own firmware you download the folder and make the appropriate changes. 
 
-<b><a style="color:red;">NOTE:</a></b> This may not be the latest firmware from Marlin. You can check here: (<a href="https://marlinfw.org/">https://marlinfw.org/</a>
+<b><a style="color:red;">NOTE:</a></b> This may not be the latest firmware from Marlin. You can check here: <a href="https://marlinfw.org/">https://marlinfw.org/</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
