@@ -70,11 +70,11 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <!--<li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>-->
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <!--<li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
 </details>
 
@@ -214,25 +214,25 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
+<!-- CONTACT 
 ## Contact
 
-Jake Porter - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Jake Porter - <!--[@twitter_handle](https://twitter.com/twitter_handle)--> - email@email_client.com
 
 Project Link: [https://github.com/DJake-P/Ender3Firmware](https://github.com/DJake-P/Ender3Firmware)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
