@@ -37,7 +37,7 @@
 <h3 align="center">Ender 3 & Ender 3 Pro Firmware</h3>
 
   <p align="center">
-    project_description
+    <!--project_description-->
     <br />
     <!--<a href="https://github.com/DJake-P/Ender3Firmware/issues"><strong>Explore the docs »</strong></a>-->
     <br />
@@ -58,9 +58,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
+      <!--<ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
+      </ul>-->
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 After looking for Firmware for the Ender 3 and Ender 3 Pro that was stable and incorporated the BLTouch and Filament Sensor, I decided to create my own. I have included all the files I used to create two firmwares one for each printer. The details are listed below. If there are any issues, let me know.  
 
