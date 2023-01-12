@@ -217,7 +217,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT 
 ## Contact
 
-Jake Porter - <!--[@twitter_handle](https://twitter.com/twitter_handle)--> - email@email_client.com
+Jake Porter - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/DJake-P/Ender3Firmware](https://github.com/DJake-P/Ender3Firmware)
 
