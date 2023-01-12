@@ -34,7 +34,7 @@
     <img src="images/ender3.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Ender 3 & Ender 3 Pro Firmware</h3>
 
   <p align="center">
     project_description
